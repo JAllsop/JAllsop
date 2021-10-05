@@ -5,13 +5,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img alt="Header" width="650px" src="./Header/header_cropped.gif" />  
 </p>
 
-<h3 align="justify"> Welcome to my profile! I'm an Information Engineering student happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance. </h3>
+<p align="justify"> Welcome to my profile! I'm an Information Engineering student happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance. 
+</p>
 <br />
 
-<h2 align="center"> Languages and Tools </h2>
-<br />
-
+<h1 align="center"> Languages and Tools 
+<br>
+<br>
 <p align="center">
+
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
 &nbsp;
 <img align="center" alt="C++" width="26px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png?raw=true" />
@@ -36,17 +38,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 <br>
 
-<h2 align="center"> Contact Me 
-<p align="center">
 
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-allsop)
+Contact Me 
+
+<div align="center">
+<center>
+  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-allsop)
 &nbsp;
-[<img align="center" alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:james.allsop8@gmail.com)
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.allsop8@gmail.com)
 &nbsp;
 
-<br />
+</center>
+</div>
 
-</p>
+<br>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JAllsop&theme=github_dark" />
 <br />  
