@@ -5,7 +5,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img alt="Header" width="650px" src="./Header/header_cropped.gif" />  
 </p>
 
-<p align="justify"> Welcome to my profile! I'm an Information Engineering student happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance. 
+<p align="justify">
+
+###  Welcome to my profile! I'm an Information Engineering student happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance. 
+
 </p>
 <br />
 
