@@ -4,7 +4,7 @@
 
 ![Header](./Header/header_cropped.gif)  
 
-### Welcome to my profile! I'm an Information Engineering student happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance.
+### Welcome to my profile! I'm a engineering graduate and software developer happily adding more skill, experience and satisfaction to my well-rounded developer journey. I would make a joke about classes but I can't think of any this instance.
 <br>
 <br>  
 
